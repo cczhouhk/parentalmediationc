@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/parentalmediationc/static/css/main.04de73b7.css",
-    "main.js": "/parentalmediationc/static/js/main.825d2d8c.js",
+    "main.js": "/parentalmediationc/static/js/main.c3236e0a.js",
     "index.html": "/parentalmediationc/index.html",
     "main.04de73b7.css.map": "/parentalmediationc/static/css/main.04de73b7.css.map",
-    "main.825d2d8c.js.map": "/parentalmediationc/static/js/main.825d2d8c.js.map"
+    "main.c3236e0a.js.map": "/parentalmediationc/static/js/main.c3236e0a.js.map"
   },
   "entrypoints": [
     "static/css/main.04de73b7.css",
-    "static/js/main.825d2d8c.js"
+    "static/js/main.c3236e0a.js"
   ]
 }

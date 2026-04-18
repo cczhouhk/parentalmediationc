@@ -66,7 +66,7 @@ function Survey({ onComplete }) {
   return (
     <div className="container">
       <div className="header">
-        <h1>📱 Parental Mediation Survey</h1>
+        <h1>Parental Mediation Child Survey</h1>
         <p>Help us understand your parents' approach to managing your digital activities.</p>
         <p style={{ fontSize: '14px', color: '#999', marginTop: '10px' }}>
           All your responses are confidential and will be used only to generate your results.
